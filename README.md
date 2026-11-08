@@ -1,6 +1,6 @@
 # Customer Churn Storyboard (Guided EDA)
 
-- **Author:** Teki Mohit Sai Tulasi
+- **Author:** Animireddy Srinu
 - **Program:** GetIntern.in 8-Week Practical Data Science & ML Internship
 - **Phase 1 Capstone / Week 4 Milestone Project:** Customer Churn Storyboard
 
