@@ -2,7 +2,7 @@
 
 - **Author:** Animireddy Srinu
 - **Program:** GetIntern.in 8-Week Practical Data Science & ML Internship
-- **Phase 1 Capstone / Week 4 Milestone Project:** Customer Churn Storyboard
+- **Phase 1 Capstone / Week 4 Milestone Project:**  Customer Churn Storyboard
 
 ## Project Summary
 An exploratory data analysis of the **Telco Customer Churn** dataset (7,043 customers, 21 columns) using **Pandas, Matplotlib and Seaborn**. The notebook tells a step-by-step story about customer attrition by answering three business questions:
